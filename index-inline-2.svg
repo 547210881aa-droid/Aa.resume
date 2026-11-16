@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="m-only m-wm pre" id="mWm" viewBox="0 0 1440 240" preserveAspectRatio="none" aria-hidden="true">
+      <defs>
+        <linearGradient id="mWmGrad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0" stop-color="#ffffff" stop-opacity="1" />
+          <stop offset="0.5" stop-color="#f1f5f3" stop-opacity="0.9" />
+          <stop offset="1" stop-color="#d7e6de" stop-opacity="0.3" />
+        </linearGradient>
+      </defs>
+      <text x="10" y="210" textLength="1420" lengthAdjust="spacing" fill="url(#mWmGrad)">RESUME</text>
+    </svg>
